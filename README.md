@@ -38,7 +38,7 @@ To run Chit-Chat locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SaiRev0/Chit-Chat.git
+   git clone https://github.com/SaiRev0/Chit-Chat-Frontend.git
    cd Chit-Chat
    ```
 
